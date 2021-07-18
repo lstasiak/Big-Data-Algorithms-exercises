@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+darcy  418  1.7666
+bennet  323  1.3651
+bingley  306  1.2933
+elizabeth  635  1.068
+wickham  194  0.8199
+collins  180  0.7607
+lydia  171  0.7227
+jane  295  0.6519
+lizzy  97  0.41
+longbourn  88  0.3719
+charlotte  85  0.3592
+netherfield  73  0.3085
+lucas  70  0.2958
+gardiner  97  0.2865
+meryton  57  0.2409
+pemberley  53  0.224
+kitty  71  0.2097
+rosings  49  0.2071
+forster  39  0.1648
+bourgh  39  0.1648

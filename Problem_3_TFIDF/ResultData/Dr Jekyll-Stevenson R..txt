@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+utterson  131  3.3219
+jekyll  105  2.6626
+hyde  105  1.3922
+poole  61  1.0812
+lanyon  35  0.8875
+lawyer  72  0.5496
+enfield  19  0.4818
+cabinet  26  0.2624
+henry  30  0.229
+laboratory  10  0.1772
+doctor  39  0.1532
+mr  128  0.1485
+edward  25  0.1406
+cheque  10  0.1326
+danvers  5  0.1268
+carew  5  0.1268
+soho  7  0.1241
+ay  12  0.1211
+murderer  9  0.1193
+phial  4  0.1014

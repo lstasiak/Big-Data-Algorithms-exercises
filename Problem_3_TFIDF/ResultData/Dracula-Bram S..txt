@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+helsing  323  2.7512
+mina  244  2.0783
+lucy  301  1.7921
+harker  175  1.4906
+van  323  1.4386
+jonathan  208  1.2384
+seward  139  1.184
+godalming  89  0.7581
+quincey  85  0.5061
+arthur  147  0.4983
+renfield  48  0.4089
+westenra  46  0.3918
+journal  64  0.381
+diary  111  0.3762
+count  198  0.3742
+whitby  43  0.3663
+dracula  42  0.3577
+morris  78  0.3474
+wolves  47  0.2798
+whilst  101  0.259

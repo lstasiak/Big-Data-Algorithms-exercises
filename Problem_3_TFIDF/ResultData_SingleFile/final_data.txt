@@ -1,0 +1,240 @@
+Sherlock Holmes-Doyle A.C.
+
+Word  Count  TF.IDF
+holmes | 467 | 3.3219 | 
+sherlock | 102 | 0.7256 | 
+watson | 81 | 0.4027 | 
+simon | 40 | 0.2845 | 
+lestrade | 38 | 0.2703 | 
+rucastle | 38 | 0.2703 | 
+mccarthy | 37 | 0.2632 | 
+coronet | 28 | 0.1992 | 
+clair | 27 | 0.1921 | 
+photograph | 25 | 0.1778 | 
+hosmer | 23 | 0.1636 | 
+turner | 22 | 0.1565 | 
+wilson | 22 | 0.1565 | 
+roylott | 21 | 0.1494 | 
+stepfather | 21 | 0.1494 | 
+advertisement | 20 | 0.1423 | 
+windibank | 20 | 0.1423 | 
+stoner | 19 | 0.1352 | 
+neville | 19 | 0.1352 | 
+hatherley | 18 | 0.128 | 
+
+Dracula-Bram S.
+
+Word  Count  TF.IDF
+helsing | 323 | 2.7512 | 
+mina | 244 | 2.0783 | 
+lucy | 301 | 1.7921 | 
+harker | 175 | 1.4906 | 
+van | 323 | 1.4386 | 
+jonathan | 208 | 1.2384 | 
+seward | 139 | 1.184 | 
+godalming | 89 | 0.7581 | 
+quincey | 85 | 0.5061 | 
+arthur | 147 | 0.4983 | 
+renfield | 48 | 0.4089 | 
+westenra | 46 | 0.3918 | 
+journal | 64 | 0.381 | 
+diary | 111 | 0.3762 | 
+count | 198 | 0.3742 | 
+whitby | 43 | 0.3663 | 
+dracula | 42 | 0.3577 | 
+morris | 78 | 0.3474 | 
+wolves | 47 | 0.2798 | 
+whilst | 101 | 0.259 | 
+
+Emma-Austen J.
+
+Word  Count  TF.IDF
+emma | 870 | 1.3095 | 
+weston | 440 | 1.2666 | 
+knightley | 389 | 1.1198 | 
+elton | 387 | 1.114 | 
+harriet | 506 | 1.0181 | 
+woodhouse | 315 | 0.6338 | 
+fairfax | 241 | 0.4849 | 
+hartfield | 160 | 0.4606 | 
+jane | 304 | 0.4576 | 
+churchill | 224 | 0.4507 | 
+bates | 148 | 0.426 | 
+highbury | 125 | 0.3598 | 
+randalls | 90 | 0.2591 | 
+mrs | 701 | 0.1956 | 
+cole | 61 | 0.1756 | 
+martin | 85 | 0.171 | 
+goddard | 59 | 0.1698 | 
+perry | 80 | 0.161 | 
+mr | 1154 | 0.152 | 
+donwell | 49 | 0.1411 | 
+
+Alice-Lewis C.
+
+Word  Count  TF.IDF
+alice | 404 | 1.737 | 
+hatter | 56 | 0.4605 | 
+gryphon | 55 | 0.4522 | 
+dormouse | 40 | 0.3289 | 
+turtle | 60 | 0.258 | 
+rabbit | 53 | 0.2279 | 
+caterpillar | 29 | 0.1667 | 
+mouse | 44 | 0.144 | 
+mock | 57 | 0.1411 | 
+queen | 76 | 0.1386 | 
+dinah | 14 | 0.1151 | 
+dodo | 13 | 0.1069 | 
+duchess | 42 | 0.104 | 
+jury | 22 | 0.0946 | 
+croquet | 10 | 0.0822 | 
+hare | 31 | 0.0767 | 
+cat | 37 | 0.0675 | 
+whiting | 8 | 0.0658 | 
+slates | 8 | 0.0658 | 
+wonderland | 8 | 0.0658 | 
+
+Grimms Tales-Grimm J.W.
+
+Word  Count  TF.IDF
+gretel | 98 | 0.8846 | 
+hans | 125 | 0.7887 | 
+fox | 89 | 0.5616 | 
+princess | 103 | 0.4862 | 
+tailor | 69 | 0.4354 | 
+hansel | 47 | 0.4243 | 
+dwarf | 62 | 0.3912 | 
+wolf | 72 | 0.3398 | 
+snowdrop | 36 | 0.325 | 
+king | 368 | 0.3219 | 
+chanticleer | 35 | 0.3159 | 
+castle | 82 | 0.2946 | 
+huntsman | 39 | 0.2461 | 
+rapunzel | 26 | 0.2347 | 
+forest | 85 | 0.231 | 
+huntsmen | 25 | 0.2257 | 
+partlet | 22 | 0.1986 | 
+dummling | 22 | 0.1986 | 
+golden | 95 | 0.1902 | 
+prince | 68 | 0.1848 | 
+
+The Importance...-Wilde O.
+
+Word  Count  TF.IDF
+algernon | 271 | 3.115 | 
+cecily | 256 | 2.9426 | 
+bracknell | 128 | 1.4713 | 
+gwendolen | 178 | 1.4301 | 
+prism | 86 | 0.9885 | 
+worthing | 64 | 0.7357 | 
+chasuble | 63 | 0.7242 | 
+ernest | 82 | 0.6588 | 
+bunbury | 39 | 0.4483 | 
+merriman | 36 | 0.4138 | 
+cardew | 30 | 0.3448 | 
+jack | 289 | 0.3219 | 
+algy | 22 | 0.2529 | 
+augusta | 23 | 0.1848 | 
+fairfax | 23 | 0.1848 | 
+moncrieff | 11 | 0.1264 | 
+muffins | 14 | 0.1125 | 
+bunburyist | 9 | 0.1035 | 
+markby | 8 | 0.092 | 
+aunt | 36 | 0.0918 | 
+
+Dorian Gray-Wilde O.
+
+Word  Count  TF.IDF
+dorian | 420 | 3.3219 | 
+gray | 205 | 1.6214 | 
+basil | 158 | 1.2497 | 
+hallward | 91 | 0.7198 | 
+sibyl | 85 | 0.6723 | 
+henry | 236 | 0.5619 | 
+harry | 178 | 0.5602 | 
+vane | 58 | 0.3206 | 
+alan | 33 | 0.261 | 
+lord | 248 | 0.1901 | 
+narborough | 22 | 0.174 | 
+campbell | 28 | 0.1548 | 
+studio | 18 | 0.1424 | 
+painter | 40 | 0.1259 | 
+portrait | 52 | 0.1238 | 
+jim | 15 | 0.1186 | 
+sins | 27 | 0.1117 | 
+duchess | 44 | 0.1048 | 
+juliet | 13 | 0.1028 | 
+murmured | 42 | 0.1 | 
+
+Moby Dick-Melville H.
+
+Word  Count  TF.IDF
+whale | 1245 | 2.3219 | 
+ahab | 517 | 1.3795 | 
+whales | 272 | 0.7258 | 
+stubb | 261 | 0.6964 | 
+queequeg | 253 | 0.6751 | 
+starbuck | 199 | 0.531 | 
+pequod | 178 | 0.4749 | 
+sperm | 245 | 0.4569 | 
+ye | 473 | 0.3799 | 
+boat | 337 | 0.3578 | 
+whaling | 133 | 0.3549 | 
+mast | 130 | 0.3469 | 
+ship | 519 | 0.3072 | 
+thou | 271 | 0.2877 | 
+deck | 199 | 0.2776 | 
+nantucket | 97 | 0.2588 | 
+leviathan | 96 | 0.2561 | 
+moby | 90 | 0.2401 | 
+dick | 90 | 0.2401 | 
+jonah | 86 | 0.2295 | 
+
+Dr Jekyll-Stevenson R.
+
+Word  Count  TF.IDF
+utterson | 131 | 3.3219 | 
+jekyll | 105 | 2.6626 | 
+hyde | 105 | 1.3922 | 
+poole | 61 | 1.0812 | 
+lanyon | 35 | 0.8875 | 
+lawyer | 72 | 0.5496 | 
+enfield | 19 | 0.4818 | 
+cabinet | 26 | 0.2624 | 
+henry | 30 | 0.229 | 
+laboratory | 10 | 0.1772 | 
+doctor | 39 | 0.1532 | 
+mr | 128 | 0.1485 | 
+edward | 25 | 0.1406 | 
+cheque | 10 | 0.1326 | 
+danvers | 5 | 0.1268 | 
+carew | 5 | 0.1268 | 
+soho | 7 | 0.1241 | 
+ay | 12 | 0.1211 | 
+murderer | 9 | 0.1193 | 
+phial | 4 | 0.1014 | 
+
+Pride and Prejustice-Austen J.
+
+Word  Count  TF.IDF
+darcy | 418 | 1.7666 | 
+bennet | 323 | 1.3651 | 
+bingley | 306 | 1.2933 | 
+elizabeth | 635 | 1.068 | 
+wickham | 194 | 0.8199 | 
+collins | 180 | 0.7607 | 
+lydia | 171 | 0.7227 | 
+jane | 295 | 0.6519 | 
+lizzy | 97 | 0.41 | 
+longbourn | 88 | 0.3719 | 
+charlotte | 85 | 0.3592 | 
+netherfield | 73 | 0.3085 | 
+lucas | 70 | 0.2958 | 
+gardiner | 97 | 0.2865 | 
+meryton | 57 | 0.2409 | 
+pemberley | 53 | 0.224 | 
+kitty | 71 | 0.2097 | 
+rosings | 49 | 0.2071 | 
+forster | 39 | 0.1648 | 
+bourgh | 39 | 0.1648 | 
+

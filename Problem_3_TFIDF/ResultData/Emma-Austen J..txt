@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+emma  870  1.3095
+weston  440  1.2666
+knightley  389  1.1198
+elton  387  1.114
+harriet  506  1.0181
+woodhouse  315  0.6338
+fairfax  241  0.4849
+hartfield  160  0.4606
+jane  304  0.4576
+churchill  224  0.4507
+bates  148  0.426
+highbury  125  0.3598
+randalls  90  0.2591
+mrs  701  0.1956
+cole  61  0.1756
+martin  85  0.171
+goddard  59  0.1698
+perry  80  0.161
+mr  1154  0.152
+donwell  49  0.1411

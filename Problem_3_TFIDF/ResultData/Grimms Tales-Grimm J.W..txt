@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+gretel  98  0.8846
+hans  125  0.7887
+fox  89  0.5616
+princess  103  0.4862
+tailor  69  0.4354
+hansel  47  0.4243
+dwarf  62  0.3912
+wolf  72  0.3398
+snowdrop  36  0.325
+king  368  0.3219
+chanticleer  35  0.3159
+castle  82  0.2946
+huntsman  39  0.2461
+rapunzel  26  0.2347
+forest  85  0.231
+huntsmen  25  0.2257
+partlet  22  0.1986
+dummling  22  0.1986
+golden  95  0.1902
+prince  68  0.1848

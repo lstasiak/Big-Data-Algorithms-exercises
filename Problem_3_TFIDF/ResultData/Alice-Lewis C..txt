@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+alice  404  1.737
+hatter  56  0.4605
+gryphon  55  0.4522
+dormouse  40  0.3289
+turtle  60  0.258
+rabbit  53  0.2279
+caterpillar  29  0.1667
+mouse  44  0.144
+mock  57  0.1411
+queen  76  0.1386
+dinah  14  0.1151
+dodo  13  0.1069
+duchess  42  0.104
+jury  22  0.0946
+croquet  10  0.0822
+hare  31  0.0767
+cat  37  0.0675
+whiting  8  0.0658
+slates  8  0.0658
+wonderland  8  0.0658

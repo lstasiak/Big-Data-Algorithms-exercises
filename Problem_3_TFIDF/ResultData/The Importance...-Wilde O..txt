@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+algernon  271  3.115
+cecily  256  2.9426
+bracknell  128  1.4713
+gwendolen  178  1.4301
+prism  86  0.9885
+worthing  64  0.7357
+chasuble  63  0.7242
+ernest  82  0.6588
+bunbury  39  0.4483
+merriman  36  0.4138
+cardew  30  0.3448
+jack  289  0.3219
+algy  22  0.2529
+augusta  23  0.1848
+fairfax  23  0.1848
+moncrieff  11  0.1264
+muffins  14  0.1125
+bunburyist  9  0.1035
+markby  8  0.092
+aunt  36  0.0918

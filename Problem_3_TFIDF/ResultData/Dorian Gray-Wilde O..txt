@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+dorian  420  3.3219
+gray  205  1.6214
+basil  158  1.2497
+hallward  91  0.7198
+sibyl  85  0.6723
+henry  236  0.5619
+harry  178  0.5602
+vane  58  0.3206
+alan  33  0.261
+lord  248  0.1901
+narborough  22  0.174
+campbell  28  0.1548
+studio  18  0.1424
+painter  40  0.1259
+portrait  52  0.1238
+jim  15  0.1186
+sins  27  0.1117
+duchess  44  0.1048
+juliet  13  0.1028
+murmured  42  0.1

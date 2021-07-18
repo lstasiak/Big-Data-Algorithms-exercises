@@ -1,0 +1,21 @@
+Word  --  Count  --  TF.IDF
+holmes  467  3.3219
+sherlock  102  0.7256
+watson  81  0.4027
+simon  40  0.2845
+lestrade  38  0.2703
+rucastle  38  0.2703
+mccarthy  37  0.2632
+coronet  28  0.1992
+clair  27  0.1921
+photograph  25  0.1778
+hosmer  23  0.1636
+turner  22  0.1565
+wilson  22  0.1565
+roylott  21  0.1494
+stepfather  21  0.1494
+advertisement  20  0.1423
+windibank  20  0.1423
+stoner  19  0.1352
+neville  19  0.1352
+hatherley  18  0.128

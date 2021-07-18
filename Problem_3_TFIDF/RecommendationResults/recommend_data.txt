@@ -1,0 +1,48 @@
+
+Recommendations for word: murder
+The Importance...-Wilde O. -->   TFIDF = 0.0393
+Sherlock Holmes-Doyle A.C. -->   TFIDF = 0.0123
+Dorian Gray-Wilde O. -->   TFIDF = 0.0092
+Moby Dick-Melville H. -->   TFIDF = 0.0088
+Dracula-Bram S. -->   TFIDF = 0.0042
+Emma-Austen J. -->   TFIDF = 0.0041
+Alice-Lewis C. -->   TFIDF = 0.0013
+Dr Jekyll-Stevenson R. -->   TFIDF = 0.0
+Grimms Tales-Grimm J.W. -->   TFIDF = 0.0
+Pride and Prejustice-Austen J. -->   TFIDF = 0.0
+
+Recommendations for word: blood
+Dorian Gray-Wilde O. -->   TFIDF = 0.1491
+Dracula-Bram S. -->   TFIDF = 0.0447
+The Importance...-Wilde O. -->   TFIDF = 0.0393
+Sherlock Holmes-Doyle A.C. -->   TFIDF = 0.0282
+Emma-Austen J. -->   TFIDF = 0.0256
+Moby Dick-Melville H. -->   TFIDF = 0.0165
+Dr Jekyll-Stevenson R. -->   TFIDF = 0.0022
+Alice-Lewis C. -->   TFIDF = 0.0
+Grimms Tales-Grimm J.W. -->   TFIDF = 0.0
+Pride and Prejustice-Austen J. -->   TFIDF = 0.0
+
+Recommendations for word: cat
+Dracula-Bram S. -->   TFIDF = 0.1782
+Alice-Lewis C. -->   TFIDF = 0.0675
+Dorian Gray-Wilde O. -->   TFIDF = 0.0265
+Moby Dick-Melville H. -->   TFIDF = 0.0047
+Sherlock Holmes-Doyle A.C. -->   TFIDF = 0.0018
+Emma-Austen J. -->   TFIDF = 0.0012
+Dr Jekyll-Stevenson R. -->   TFIDF = 0.0
+Grimms Tales-Grimm J.W. -->   TFIDF = 0.0
+Pride and Prejustice-Austen J. -->   TFIDF = 0.0
+The Importance...-Wilde O. -->   TFIDF = 0.0
+
+Recommendations for word: science
+Dorian Gray-Wilde O. -->   TFIDF = 0.0158
+Sherlock Holmes-Doyle A.C. -->   TFIDF = 0.011
+Pride and Prejustice-Austen J. -->   TFIDF = 0.0053
+The Importance...-Wilde O. -->   TFIDF = 0.0039
+Emma-Austen J. -->   TFIDF = 0.0025
+Moby Dick-Melville H. -->   TFIDF = 0.0022
+Grimms Tales-Grimm J.W. -->   TFIDF = 7.0E-4
+Alice-Lewis C. -->   TFIDF = 0.0
+Dr Jekyll-Stevenson R. -->   TFIDF = 0.0
+Dracula-Bram S. -->   TFIDF = 0.0
