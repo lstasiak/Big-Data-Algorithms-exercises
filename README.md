@@ -1,5 +1,5 @@
 # Big-Data-Algorithms-exercises
-Set of tasks solved in Big Data Algorithms course at WUST. The main literature regarding this course include: "Mining of massive datasets" by J. Leskovec, A. Rajaraman and J. Ullman.
+Set of tasks solved in Big Data Algorithms course at WUST. The main literature this course is based on, includes: "Mining of massive datasets" by J. Leskovec, A. Rajaraman and J. Ullman. Please consider the information below as my own notes for this course. For more details, I encourage you to look at the mentioned book.  
 
 ## Problem 1 - Jaccard Distance & Minhashing
 
